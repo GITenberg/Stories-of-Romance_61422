@@ -1,0 +1,74 @@
+_repo: Stories-of-Romance_61422
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Cunningham, Allan
+    alias: Cunningham, A. C.
+    birthdate: 1784
+    deathdate: 1842
+    gutenberg_agent_id: '8069'
+    url: http://www.gutenberg.org/2009/agents/8069
+    wikipedia: https://en.wikipedia.org/wiki/Allan_Cunningham_(author)
+  - agent_name: Craik, Dinah Maria Mulock
+    aliases:
+    - Mulock, Dinah Maria
+    - Mulock, Miss
+    birthdate: 1826
+    deathdate: 1887
+    gutenberg_agent_id: '264'
+    url: http://www.gutenberg.org/2009/agents/264
+    wikipedia: https://en.wikipedia.org/wiki/Dinah_Craik
+  - agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+  - agent_name: Spofford, Harriet Elizabeth Prescott
+    aliases:
+    - Prescott, Harriet Elizabeth
+    - Spofford, Harriet Prescott
+    birthdate: 1835
+    deathdate: 1921
+    gutenberg_agent_id: '6312'
+    url: http://www.gutenberg.org/2009/agents/6312
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Elizabeth_Prescott_Spofford
+  - agent_name: Wilson, John
+    aliases:
+    - North, Christopher
+    - Austin, Arthur
+    - Mullion, Mordecai
+    birthdate: 1785
+    deathdate: 1854
+    gutenberg_agent_id: '9011'
+    url: http://www.gutenberg.org/2009/agents/9011
+    wikipedia: https://en.wikipedia.org/wiki/John_Wilson_%28Scottish_writer%29
+  editor:
+    agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+    wikipedia: https://en.wikipedia.org/wiki/Rossiter_Johnson
+description: ''
+gutenberg_issued: '2020-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Little Classics, Volume 7 (of 18)
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature -- Collections'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: Iris / Oliver Wendell Holmes -- The Rosicrucian / Dinah Maria Mulock
+  Craik -- The south breaker / Harriet Prescott Spofford -- The snow-storm / John
+  Wilson -- The King of the Peak / Allan Cunningham.
+title: Stories of Romance
+url: http://www.gutenberg.org/ebooks/61422
